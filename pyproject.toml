@@ -1,0 +1,15 @@
+[project]
+name = "nygardsvikveien"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.12.0",
+    "diffusers>=0.36.0",
+    "ezdxf>=1.4.3",
+    "pillow>=12.1.1",
+    "pymupdf>=1.27.1",
+    "requests>=2.32.5",
+    "torch>=2.10.0",
+    "transformers>=5.2.0",
+]

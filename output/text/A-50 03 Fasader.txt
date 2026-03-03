@@ -1,0 +1,45 @@
+--- Page 1 ---
+Prosjektnr.:
+Tittel:
+Målestokk:
+Dato:
+Fase:
+Type tegning:
+Tegningsnr.:
+Kontroll prosjekt
+Sign.:
+Kontroll:
+Lokalisering:
+Tel: 56332380         
+Postboks 325  5343 Straume
+E-post: post@arkrolveide.no     
+www.arkrolveide.no
+Rev.
+Tegn.:
+Format:
+A3
+As indicated
+Fasader
+1258
+A-50 03
+26.11.25
+Silje Faugstad
+Bergen kommune
+Nygårdsvikveien 38
+Nygårdsvikveien 38
+BYGGESØKNAD
+Designer
+RE
+SAN
+Enebolig med garasje
+1 : 150
+Nord
+1
+ 1 : 100
+Vest
+2
+Rev.
+Dato
+Beskrivelse
+Sign
+Kontr

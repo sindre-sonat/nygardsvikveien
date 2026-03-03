@@ -1,0 +1,50 @@
+--- Page 1 ---
+Prosjektnr.:
+Tittel:
+Målestokk:
+Dato:
+Fase:
+Type tegning:
+Tegningsnr.:
+Kontroll prosjekt
+Sign.:
+Kontroll:
+Lokalisering:
+Tel: 56332380         
+Postboks 325  5343 Straume
+E-post: post@arkrolveide.no     
+www.arkrolveide.no
+Rev.
+Tegn.:
+Format:
+A2
+ 1 : 50
+Fasader
+1185
+A-50 01
+26.11.25
+Faugstad
+Bergen kommune
+Nygårdsvikveien 38
+Nygårdsvikveien 38
+skisse
+-
+-
+san
+Rev.
+Dato
+Beskrivelse
+Sign
+Kontr
+ 1 : 50
+N
+1
+ 1 : 50
+S
+2
+ 1 : 50
+V
+3
+ 1 : 50
+Ø
+4

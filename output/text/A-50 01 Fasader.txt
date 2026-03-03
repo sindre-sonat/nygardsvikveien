@@ -1,0 +1,62 @@
+--- Page 1 ---
+Prosjektnr.:
+Tittel:
+Målestokk:
+Revisjon nr.:
+Dato:
+Fase:
+Type tegning:
+Prosjekteringsgruppe:
+Tegningsnr.:
+Kontroll prosjekt
+Sign.:
+Kontroll:
+Type tegning:
+Tegningsnr.:
+Lokalisering:
+Tel: 56332380         
+Postboks 325  5343 Straume
+E-post: post@arkrolveide.no     
+www.arkrolveide.no
+Rev.
+ARK :
+Tegn.:
+Format:
+RIAku :
+RIB :
+RIV :
+RIE :
+RIBr :
+A2
+ 1 : 100
+Fasader
+1258
+A-50 01
+26.11.25
+Enebolig Silje Faugstad
+Bergen kommune
+Nygårdsvikveien 38
+Nygårdsvikveien 38
+A-50 01
+Fasader
+BYGGESØKNAD
+RE
+RE
+SAN
+ 1 : 100
+V
+1
+ 1 : 100
+N
+2
+ 1 : 100
+Ø
+3
+ 1 : 100
+S
+4
+Rev.
+Dato
+Beskrivelse
+Sign
+Kontr

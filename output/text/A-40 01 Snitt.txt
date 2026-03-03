@@ -1,0 +1,136 @@
+--- Page 1 ---
+Plan 01
+23620
+Plan 02
+26320
+Plan 03
+29420
+uk tak
+32220
+A
+B
+C
+D
+E
+Møne
+34020
+B
+1800
+2800
+250
+2850
+250
+2450
+12850
+10400
+1800
+2800
+3100
+2700
+Gang
+18.0 m²
+tv-stue
+43.7 m²
+spisestue
+25.7 m²
+Hall
+20.2 m²
+Sov.
+15.6 m²
+B1
+Plan 01
+23620
+Plan 02
+26320
+Plan 03
+29420
+uk tak
+32220
+1
+A
+2
+3
+4
+Møne
+34020
+10400
+1800
+2800
+3100
+2700
+2800
+250
+2855
+245
+2450
+vaskerom/Gard
+23.9 m²
+Trening
+22.9 m²
+tv-stue
+43.7 m²
+stue
+36.0 m²
+tv-stue
+28.1 m²
+TEKNISK
+9.3 m²
+Bad
+11.6 m²
+Kjøkken
+17.7 m²
+Prosjektnr.:
+Tittel:
+Målestokk:
+Revisjon nr.:
+Dato:
+Fase:
+Type tegning:
+Prosjekteringsgruppe:
+Tegningsnr.:
+Kontroll prosjekt
+Sign.:
+Kontroll:
+Type tegning:
+Tegningsnr.:
+Lokalisering:
+Tel: 56332380         
+Postboks 325  5343 Straume
+E-post: post@arkrolveide.no     
+www.arkrolveide.no
+Rev.
+ARK :
+Tegn.:
+Format:
+RIAku :
+RIB :
+RIV :
+RIE :
+RIBr :
+A2
+ 1 : 100
+Snitt
+1258
+A-40 01
+26.11.25
+Enebolig Silje Faugstad
+Bergen kommune
+Nygårdsvikveien 38
+Nygårdsvikveien 38
+A-40 01
+Snitt
+BYGGESØKNAD
+RE
+RE
+SAN
+ 1 : 100
+A
+1
+ 1 : 100
+B
+2
+Rev.
+Dato
+Beskrivelse
+Sign
+Kontr

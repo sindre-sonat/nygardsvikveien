@@ -1,0 +1,59 @@
+--- Page 1 ---
+T-profil 2
+ok.betong +26.32
+Møne +34.02
++33.53
+ok.betong +23.62
+ph +25.96
+T-profil 1
++25.96
++23.62
++34.02
++29.85
++33.62
+Prosjektnr.:
+Tittel:
+Målestokk:
+Dato:
+Fase:
+Type tegning:
+Tegningsnr.:
+Kontroll prosjekt
+Sign.:
+Kontroll:
+Lokalisering:
+Tel: 56332380         
+Postboks 325  5343 Straume
+E-post: post@arkrolveide.no     
+www.arkrolveide.no
+Rev.
+Tegn.:
+Format:
+A2
+ 1 : 100
+Terrengprofil
+1258
+A-20 01
+26.11.25
+Silje Faugstad
+Bergen kommune
+Nygårdsvikveien 38
+Nygårdsvikveien 38
+BYGGESØKNAD
+RE
+RE
+SAN
+Enebolig med garasje
+ 1 : 100
+T-profil 1
+1
+ 1 : 100
+T-profil 2
+2
+Rev.
+Dato
+Beskrivelse
+Sign
+Kontr
+Eksisterende terreng
+Teig
