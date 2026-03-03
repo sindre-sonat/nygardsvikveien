@@ -1,0 +1,87 @@
+--- Page 1 ---
+1
+A
+A
+2
+3
+4
+B
+C
+D
+E
+stue
+36.0 m²
+Kjøkken
+17.7 m²
+Bod
+3.1 m²
+Bi-inngang
+13.8 m²
+Hall
+20.2 m²
+wc
+2.0 m²
+B
+spisestue
+25.7 m²
+1200
+1000
+1200
+1000
+2500
+2400
+6900
+2350
+7200
+1800
+1500
+5700
+4800
+1310
+1000
+1190
+1000
+1200
+gard
+1.0 m²
+12850
+12850
+16200
+1000
+Prosjektnr.:
+Tittel:
+Målestokk:
+Dato:
+Fase:
+Type tegning:
+Tegningsnr.:
+Kontroll prosjekt
+Sign.:
+Kontroll:
+Lokalisering:
+Tel: 56332380         
+Postboks 325  5343 Straume
+E-post: post@arkrolveide.no     
+www.arkrolveide.no
+Rev.
+Tegn.:
+Format:
+A2
+ 1 : 50
+Plan 02
+1258
+A-30 02
+26.11.25
+Enebolig Silje Faugstad
+Bergen kommune
+Nygårdsvikveien 38
+Nygårdsvikveien 38
+BYGGESØKNAD
+RE
+RE
+SAN
+Rev.
+Dato
+Beskrivelse
+Sign
+Kontr

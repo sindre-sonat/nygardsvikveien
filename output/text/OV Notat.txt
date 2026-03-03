@@ -1,0 +1,440 @@
+--- Page 1 ---
+Nygårdsvikveien 38 
+gnr./bnr.149/162, i Bergen Kommune 
+   
+Vurdering av overvannshåndtering i byggeprosjekt.  
+Rådgivende notat for tiltak knyttet til håndtering av overvann. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Utarbeidet: 23.12.2025
+
+--- Page 2 ---
+I forbindelse med søknad om forhåndstilsagn ved etablering av ny bolig på gnr/bnr 149/162 i Bergen 
+kommune, skal plan for håndtering av overvann dokumenteres.   
+ 
+ 
+I tråd med pbl §27-2 stilles det krav om at overvannshåndteringen i byggesaker skal dokumenteres. 
+Det vises også til kommunedelplan for overvann som ble vedtatt i Bergen bystyre 25.09.2019. 
+I kommunedelplanen er det under punkt 8.4 listet opp punkter på hva som skal dokumenteres ved 
+vurdering av overvann i den enkelte byggesak. Disse punktene er nevnt i listen under: 
+ 
+A. Føringer i overordnede planer. Dette vil da være VA-rammeplan til reguleringsplan eller 
+kommunedelplan for overvann  
+B. Vurdering av nedbørsfelt før og etter utbygging. 
+C. Vurdering av avrenningsmønster før og etter utbygging. 
+D. Vurdering av flomveier før og etter utbygging. 
+E. Beregning knyttet til endring i overvannsmengder som følge av tiltaket 
+F. Valg av løsning behov for areal avsatt til infiltrasjon 
+G. Valg av løsning behov for areal avsatt til fordrøyning 
+H. Mulighet or å bruke overvann i blågrønne løsninger. 
+I. Vurdering knyttet til forurensning av overvann fra tiltaket. 
+J. Anlegg som søkes overtatt til offentlig drift, og vedlikehold. 
+ 
+ 
+I vår vurdering er det tatt utgangspunkt i listen over og vurdert disse for det omsøkte tiltaket. Tiltaket 
+er beskrevet under del 1 i dette notatet og en vurdering av tiltaket opp mot punktene i listen over er 
+gjort under del 2 i notatet. 
+ 
+På NVE og Miljødirektoratet sine hjemmesider finner en følgende definisjoner knyttet til overvann: 
+ 
+Overvann er vann som renner av på overflaten som følge av regn og smeltevann. Når det regner eller 
+er snøsmelting vil ofte mye av vannet infiltreres ned i bakken. Men dersom grunnen allerede er mettet 
+med vann eller at masser i grunnen er frosset eller dersom nedbør treffer tette flater vil vannet renne av 
+på overflaten som overvann. Det samme skjer dersom nedbørintensiteten er større enn 
+infiltrasjonskapasiteten i grunnen. Da vil også vannet renne av på overflaten.  
+ 
+Overvannshåndtering er lokal disponering, trygg bortledning og eventuelt behandling av overvann. 
+Formålet er å ivareta sikkerhet mot skade på helse, miljø og infrastruktur, og samtidig ivareta 
+overvannet som ressurs. 
+ 
+Vann i grunnen mellom overflaten og grunnvannssonen kalles markvann. Dette er da vann som renner 
+av terrenget nede i grunnen. Vannveier knyttet til markvann er bestemt av formasjon til fjell og 
+tettheten til løsmassene. Grunnarbeid knyttet til masseutskifting og sprengning vil endre vannveiene til 
+markvann.  
+ 
+Dette notat omhandler overvannshåndtering for det aktuelle tiltaket i tråd med definisjonen over. 
+Håndtering av markvann eller grunnvann er ikke omtalt i denne rapporten. Vi forutsetter at dette er 
+beskrevet av ansvarlig prosjekterende for grunn- og terrengarbeider.
+
+--- Page 3 ---
+DEL 1. Tiltaket og dagens situasjon. 
+ 
+ 
+ 
+Kommune 
+Eiendom 
+Areal tiltak 
+Eksisterende anlegg 
+Adresse 
+Bergen 
+149/162 
+Ca. 905 kvm 
+bebygd 
+Nygårdsvikveien 38 
+ 
+Tiltaket 
+ 
+Figur 1. Dagens situasjon 
+ 
+ 
+Figur 2. Planlagt utbygging
+
+--- Page 4 ---
+På eiendommen står i dag en tomannsbolig samt garasje. I tillegg er eiendommen opparbeidet med 
+hage, terrasse og andre uteområder. Eksisterende adkomstveg og p-plass inne på tomten er asfaltert. 
+Samlet areal av bygningsmasse er på om lag 100 kvadratmeter. I tillegg er om lag 95 kvadrat av 
+tomten opparbeidet terrasse eller asfalterte uteområder. Samlet utgjør dette da i underkant av 200 
+kvm eller om lag 22 % av tomten. Resten av tomten er opparbeidet hage. Det er observert noe fjell i 
+dagen inne på tomten mellom annet ved innkjøringen (se figur 3).  
+ 
+ 
+Figur 3. Viser fjell i nedre kant av tomten. 
+ 
+Det er planlagt å rive eksisterende bygg og etablere ny enebolig med samlet grunnflate på om lag 
+170 kvadratmeter samt garasje på om lag 39 kvadratmeter og opparbeidet uteområde (der om lag 30 
+kvadratmeter får tette dekker (se figur 2). Etter utbygging vil andel tette flater da utgjøre om lag 26 
+% av tomta eller rundt 240 kvadratmeter. 
+ 
+ 
+DEL2. Tiltakets konsekvenser for overvannshåndtering. 
+ 
+ 
+A. Føringer i overordnete planer. 
+Tiltaket ligger i et regulert område med en eldre reguleringsplan (plan_id: 40260000) vedtatt i 1964. 
+Denne planen er eldre enn eksisterende kommunedelplan for overvann. Dermed blir 
+kommunedelplan for overvann den overordnede planen som gir føringer for håndtering av overvann 
+i denne byggesaken. 
+ 
+ 
+ 
+B. Nedbørsfelt før, og etter utbygging. 
+Viser til temakart 1.  
+Tomten ligger innenfor et nedbørsfelt med avrenning nordover og til slutt ut i sjø.  
+Som vist på kartet er tomten ikke i konflikt med dagens grenser for dette nedbørsfeltet. 
+ 
+Det kan dermed konkluderes med at tiltak på tomten ikke endrer dagens grenser på nedbørsfeltene.
+
+--- Page 5 ---
+C. Avrenningsmønster før, og etter utbygging: 
+Avrenningsmønsteret i dagens situasjon er vist på tenakart 2 og fremtidig avrenning er vist på 
+temakart 3. 
+ 
+Det er i dagens situasjon en mindre avrenningslinje som går langs adkomstvegen til tomten. 
+Som vist på temakart 1 ligger tomten i utkanten av nedbørsfeltet og det er dermed lite arealer 
+overfor tomten som kan bidra til avrenning gjennom denne.  
+ 
+Etter utbygging vil avreningen inne på tomten endres på grunn av ny enebolig. Mengden tette flater 
+økes i liten grad (se beregninger). Overvann må sikres slik at det er fall bort fra bygget.  
+Overvann fra p-plass og inngangsparti får avrenning til ISF 1 for infiltrasjon til grunnen. 
+Overvann fra taknedløp på deler av bolig og garasje føres til fordrøyning i kum LOD 1 med 
+infiltrasjon til grunnen. 
+Overvann fra resten av boligen samt hage med tette flater skal ha avrenning til område for naturlig 
+infiltrasjon. 
+ 
+ 
+ 
+D. Flomveier før, og etter utbygging. 
+Som vist på temakart 2 og 3 berører tomten ikke eksisterende flomveier i området. Disse følger 
+eksisterende veinett og renner ut i sjø som vist på temakartene. 
+ 
+ 
+ 
+E. Overvann i blågrønne løsninger. 
+Det er ikke registrert noe overvannsanlegg på tomten i dagens situasjon. Overvann fra bygget og en 
+del områder med tette flater føres til plen og andre deler av hagen slik at en der får naturlig 
+infiltrasjon.  
+ 
+Det er ikke planlagt anlegg for håndtering av overvann i blågrønne løsninger.  
+ 
+ 
+F. Beregning av overvannsmengder 
+Den rasjonelle metoden er benyttet for å beregne dimensjonerende mengde overvann fra tomten før 
+og etter utbyggingen. I tillegg er det benyttet en klimafaktor på 1,4 (40 %) i tråd med anbefalingene 
+fra Norsk klimaservicesenter. Beregningene er gjort for hele tomten.  
+ 
+I beregningene er det benyttet følgende parametere: 
+- 
+Areal til tiltaket: 0,09 hektar  
+- 
+Tilrenningstid før utbygging: 5 minutter 
+- 
+Tilrenningstid etter utbygging: 5 minutter 
+- 
+Arealkoeffisient før utbygging: 0,34 
+- 
+Arealkoeffisient etter utbygging: 0,38 
+- 
+Klimafaktor: 1,4 
+- 
+Gjenntaksintervall: 20 år for åpent boligområde 
+- 
+IVF kurve for Bergen Florida uten korreksjoner (fra Norsk Klimaservicesenter) for 20 års 
+gjenntaksintervall.  
+ 
+For vurdering av avrenningsfaktorer (Avrenningskoeffisient) er Norsk Vann rapport 193 lagt til 
+grunn sammen med håndbok N200. Det er satt følgende avrenninger: 
+- 
+Takflater: 0,8 – 0,9, 
+- 
+Asfalterte flater: 0,7 – 0,8 
+- 
+Grusveger: 0,4 – 0,6
+
+--- Page 6 ---
+- 
+Plen/hage: 0,2 
+ 
+ 
+Endring i avrenningsfaktor der adkomstveg og inngangsparti er asfaltert 
+ 
+Som hovedregel skal ikke avrenning fra tomten økes etter utbygging. Men i tillegg bør en se på om 
+det er problemer med håndtering av dagens overvannsmengder nedstrøms utbyggingsområdet. For 
+dette tiltaket mener vi at avrenningen ikke kan økes på grunn av nærliggende eiendommer og for å 
+ikke øke avrenningen end mot disse.  
+ 
+Beregningene viser da at i dagens situasjon «produserer» tomten en overvannsmengde (avrenning 
+fra tomten) på om lag 8 l/s, ved et dimensjonerende nedbørstilfelle på 5 minutter og med et 
+gjenntaksintervall på 20 år. Resten av nedbøren infiltreres til grunnen og renner av som markvann. 
+ 
+Det er benyttet regnenvelope metoden for å beregne behov for fordrøyningsvolum.  
+Som tabellen under vil det ved nedbør på 5 minutter være størst behov for fordrøyning.  
+Fordrøyningsbehovet vil være på 1,3 kubikk totalt.  
+ 
+ 
+ 
+G. Areal avsatt til infiltrasjon 
+Areal avsatt til naturlig infiltrasjon vil være grøntområder på tomten spesielt i den nedre delen av 
+hagen, se temakart 4.  
+ 
+ 
+H. Fordrøyning 
+Viser til temakart 4 for plassering av tiltak knyttet til håndtering av overvann. Det planlegges en 
+løsning med naturlig fordøryning på 1,0 kubikk i LOD 1. Resten fordrøyes / infiltreres lokalt i 
+hagen. I tillegg må det etableres sandfangskum ved innkjørsel til tomten (ISF 1)  
+ 
+ 
+ 
+ 
+Beregning avrenningskoefisient for tomt (ved forhåndstilsagn) Basert på NV rap. 193
+Faktor
+Andel
+Samlet faktor
+Før utbygging
+Areal tomt
+905
+Asfalterte flater
+95
+0,8
+0,10
+0,08
+Glatte tak
+100
+0,9
+0,11
+0,10
+Gruslagte områder
+0
+0,5
+0,00
+0,00
+Plen / grøntområde
+710
+0,2
+0,78
+0,16
+Sum tomt
+905
+0,34
+Etter utbygging
+Areal tomt
+905
+Asfalterte flater
+30
+0,8
+0,03
+0,03
+Glatte tak
+209
+0,9
+0,23
+0,21
+Gruslagte områder
+0
+0,5
+0,00
+0,00
+Plen / grøntområde
+666
+0,2
+0,74
+0,15
+Sum tomt
+905
+0,38
+Endring i faktor
+Før
+0,34
+Etter
+0,38
+Endring
+12 %
+0,04
+Felt
+Areal (hektar) Arealkoeffisient 
+før tiltak (Ha)
+Arealkoeffisient 
+etter tiltak (Ha)
+Konsentrasjonstid 
+(min)
+Faktor for 
+reduksjon av areal 
+ved  lavere  
+konsentrasjonstid
+Dimmensjonerende 
+nedbør (l/s og ha) 
+fra IVF-kurve
+Dimmensjonerende 
+avrenning før 
+utbygging (l/s)
+Største tillatte 
+avrening etter 
+utbygging (l/s)
+Beregnet 
+avrenning etter 
+utbygging
+Klimafaktor
+Beregnet 
+avrenning etter 
+utbygging med 
+klimafaktor
+Behov for 
+magasin liter
+0,09
+0,34
+0,38
+2
+0,4
+345
+4
+8
+5
+1,4
+7
+-167
+0,09
+0,34
+0,38
+5
+1
+257
+8
+8
+9
+1,4
+12
+1292
+0,09
+0,34
+0,38
+10
+1
+191
+6
+8
+7
+1,4
+9
+687
+0,09
+0,34
+0,38
+15
+1
+149
+5
+8
+5
+1,4
+7
+-779
+0,09
+0,34
+0,38
+20
+1
+129
+4
+8
+4
+1,4
+6
+-2188
+0,09
+0,34
+0,38
+30
+1
+106
+3
+8
+4
+1,4
+5
+-5264
+0,09
+0,34
+0,38
+45
+1
+81
+2
+8
+3
+1,4
+4
+-11129
+0,09
+0,34
+0,38
+60
+1
+70
+2
+8
+2
+1,4
+3
+-16734
+Nygårdsvikveien 38
+
+--- Page 7 ---
+I. Vurdering av forurensningsnivå, og resipient. 
+Tiltaket omfatter etablering av boliger. Det skal ikke foregå aktiviteter her som vil gi forurensning 
+av overvann ut over det som er normalt ved drift av veger og p-plasser (salting og strøing av veger). 
+Det er derfor ikke planlagt noe anlegg for rensing av overvann.  
+ 
+ 
+ 
+J. Anlegg som søkes overtatt til offentlig drift, og vedlikehold. 
+Det søkes ikke om overlevering av overvannsanlegg til offentlig drift, og vedlikehold. 
+  
+ 
+ 
+Eikelandsosen  
+ 
+ 
+ 
+André Bjørndal

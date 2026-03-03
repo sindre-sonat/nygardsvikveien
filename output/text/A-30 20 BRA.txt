@@ -1,0 +1,125 @@
+--- Page 1 ---
+169.7 m²
+BRA
+10.8 m²
+BRA
+16.6 m²
+ob.BRA
+124.5 m²
+BRA
+6.9 m²
+ob.BRA
+7.7 m²
+ob.BRA
+6.7 m²
+ob.BRA
+10.1 m²
+ob.BRA
+38.8 m²
+BRA GARASJE
+124.5 m²
+BRA
+6.9 m²
+ob.BRA
+8.5 m²
+ob.BRA
+Prosjektnr.:
+Tittel:
+Målestokk:
+Dato:
+Fase:
+Type tegning:
+Tegningsnr.:
+Kontroll prosjekt
+Sign.:
+Kontroll:
+Lokalisering:
+Tel: 56332380         
+Postboks 325  5343 Straume
+E-post: post@arkrolveide.no     
+www.arkrolveide.no
+Rev.
+Tegn.:
+Format:
+A3
+1 : 150
+BRA
+1258
+A-30 20
+26.11.25
+Enebolig Silje Faugstad
+Bergen kommune
+Nygårdsvikveien 38
+Nygårdsvikveien 38
+BYGGESØKNAD
+RE
+RE
+SAN
+1 : 150
+Plan 01
+1
+1 : 150
+Plan 02
+2
+1 : 150
+Plan 03
+3
+Areal (BRA)
+Level
+Navn
+Areal (m2)
+Plan 01
+BRA
+169.7
+Plan 01
+BRA
+10.8
+180.5
+Plan 02
+BRA
+124.5
+124.5
+Plan 03
+BRA
+124.5
+124.5
+429.5
+Plan
+garasje
+BRA
+GARASJE
+38.8
+38.8
+38.8
+Plan 01
+ob.BRA
+16.6
+16.6
+Plan 02
+ob.BRA
+7.7
+Plan 02
+ob.BRA
+6.7
+Plan 02
+ob.BRA
+10.1
+Plan 02
+ob.BRA
+6.9
+31.3
+Plan 03
+ob.BRA
+6.9
+Plan 03
+ob.BRA
+8.5
+15.4
+63.3
+Grand total: 12
+531.5
+Rev.
+Dato
+Beskrivelse
+Sign
+Kontr

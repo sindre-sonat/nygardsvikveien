@@ -1,0 +1,77 @@
+--- Page 1 ---
+1
+A
+A
+2
+3
+4
+B
+C
+D
+E
+tv-stue
+28.1 m²
+Sov.
+7.1 m²
+Bad
+11.7 m²
+Sov.
+7.1 m²
+B
+vaskerom/Gard
+23.9 m²
+7200
+6900
+2400
+6900
+Gang
+18.0 m²
+16200
+12850
+12850
+Sov.
+15.6 m²
+garderobe
+Veranda
+9.2 m²
+Veranda
+12.9 m²
+Bod
+2.0 m²
+Prosjektnr.:
+Tittel:
+Målestokk:
+Dato:
+Fase:
+Type tegning:
+Tegningsnr.:
+Kontroll prosjekt
+Sign.:
+Kontroll:
+Lokalisering:
+Tel: 56332380         
+Postboks 325  5343 Straume
+E-post: post@arkrolveide.no     
+www.arkrolveide.no
+Rev.
+Tegn.:
+Format:
+A2
+ 1 : 50
+Plan 03
+1258
+A-30 03
+26.11.25
+Enebolig Silje Faugstad
+Bergen kommune
+Nygårdsvikveien 38
+Nygårdsvikveien 38
+BYGGESØKNAD
+RE
+RE
+SAN
+Rev.
+Dato
+Beskrivelse
+Sign
+Kontr

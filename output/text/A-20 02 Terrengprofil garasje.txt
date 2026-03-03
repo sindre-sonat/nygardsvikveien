@@ -1,0 +1,50 @@
+--- Page 1 ---
++26.35
++26.35
++30.49
+Prosjektnr.:
+Tittel:
+Målestokk:
+Dato:
+Fase:
+Type tegning:
+Tegningsnr.:
+Kontroll prosjekt
+Sign.:
+Kontroll:
+Lokalisering:
+Tel: 56332380         
+Postboks 325  5343 Straume
+E-post: post@arkrolveide.no     
+www.arkrolveide.no
+Rev.
+Tegn.:
+Format:
+A3
+ 1 : 100
+Terrengprofil garasje
+1258
+A-20 02
+26.11.25
+Silje Faugstad
+Bergen kommune
+Nygårdsvikveien 38
+Nygårdsvikveien 38
+BYGGESØKNAD
+Designer
+RE
+SAN
+Enebolig med garasje
+ 1 : 100
+T-profil 4-Garasje
+1
+ 1 : 100
+T-profil 3-Garasje
+2
+Rev.
+Dato
+Beskrivelse
+Sign
+Kontr
+Eksisterende terreng
+Teig

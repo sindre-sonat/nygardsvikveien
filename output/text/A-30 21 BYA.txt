@@ -1,0 +1,59 @@
+--- Page 1 ---
+264.9 m²
+BYA BOLIG
+Prosjektnr.:
+Tittel:
+Målestokk:
+Revisjon nr.:
+Dato:
+Fase:
+Type tegning:
+Prosjekteringsgruppe:
+Tegningsnr.:
+Kontroll prosjekt
+Sign.:
+Kontroll:
+Type tegning:
+Tegningsnr.:
+Lokalisering:
+Tel: 56332380         
+Postboks 325  5343 Straume
+E-post: post@arkrolveide.no     
+www.arkrolveide.no
+Rev.
+ARK :
+Tegn.:
+Format:
+RIAku :
+RIB :
+RIV :
+RIE :
+RIBr :
+A3
+ 1 : 100
+BYA
+1258
+A-30 21
+26.11.25
+Enebolig Silje Faugstad
+Bergen kommune
+Nygårdsvikveien 38
+Nygårdsvikveien 38
+A-30 21
+BYA
+BYGGESØKNAD
+RE
+RE
+SAN
+Rev.
+Dato
+Beskrivelse
+Sign
+Kontr
+Areal (BYA)
+Navn
+Areal (m2)
+BYA BOLIG
+264.9
+BYA GARASJE
+56.4
